@@ -525,3 +525,8 @@ body {
 	-moz-transform:translate(-50%, 0%);
 	-ms-transform:translate(-50%, 0%);
 }
+.unselectable{
+	display: none;
+}
+
+
